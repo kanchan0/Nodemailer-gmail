@@ -1,3 +1,6 @@
+##### 
+## :heart: Star :heart: the repo to support the project or :smile:[Follow Me](https://github.com/kanchan0).Thanks!
+
 # Nodemailer-gmail
 This will show how to use nodemailer to send mail to any gmail account from express app.
 
